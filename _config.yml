@@ -7,6 +7,7 @@ mathjax: true
 header_pages:
   - index.md
   - publications.md
+  - talkslides&posters.md
   - activities.md
 
 # 額外資訊（會出現在網頁底部）
