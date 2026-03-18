@@ -6,7 +6,7 @@ theme: minima
 header_pages:
   - index.md
   - publications.md
-  - talks.md
+  - slidesandposters.md
   - activities.md
 
 # 額外資訊（會出現在網頁底部）
