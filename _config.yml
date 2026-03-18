@@ -1,13 +1,12 @@
 title: "Fei-Jun's Page"
 description: 
 theme: minima
-mathjax: true
 
 # 這一行會自動把你的 .md 檔案抓到右上角
 header_pages:
   - index.md
   - publications.md
-  - talkslides&posters.md
+  - talks.md
   - activities.md
 
 # 額外資訊（會出現在網頁底部）
