@@ -20,5 +20,3 @@ title: Publications
   </li>
 
 </ol>
-
-[Homepage](index.html)
