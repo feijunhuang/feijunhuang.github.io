@@ -3,6 +3,22 @@ layout: default
 title: Publications
 ---
 # Publications
-這裡放你的論文清單...
 
-[回到首頁](index.html)
+<ol reversed>
+  <li>
+    On q-Shuffle Relations for Multiple Eisenstein Series of Arbitrary Rank in Positive Characteristic 
+    (with Ting-Wei Chang, Song-Yun Chen and Hung-Chun Tsui), 
+    Submitted, 2025. 
+    [ <a href="https://arxiv.org/abs/2504.18879">ArXiv</a> ]
+  </li>
+
+  <li>
+    Algebra Structures of Multiple Eisenstein Series in Positive Characteristic 
+    (with Ting-Wei Chang, Song-Yun Chen and Hung-Chun Tsui), 
+    Submitted, 2026. 
+    [ <a href="https://arxiv.org/abs/2603.10376">ArXiv</a> ]
+  </li>
+
+</ol>
+
+[Homepage](index.html)
