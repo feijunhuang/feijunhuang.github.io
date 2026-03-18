@@ -9,7 +9,7 @@ title: Talkslides & Posters
   <li>
     <strong>
     <a href="https://drive.google.com/file/d/1nOdXO1yxGMG_It3i7TFeWiek_mqV_der/view?usp=sharing" target="_blank">
-      On $q$-Shuffle relations for multiple Eisenstein series in positive characteristic
+      On q-Shuffle relations for multiple Eisenstein series in positive characteristic
     </a>
     </strong>, 
     <br>
@@ -26,7 +26,7 @@ title: Talkslides & Posters
   <li>
     <strong>
     <a href="https://drive.google.com/file/d/1DNmHBSxaTNjc8Wdi4--LuB4gM55kvyPE/view?usp=sharing" target="_blank">
-      On $q$-Shuffle Relations for Multiple Eisenstein Series of Arbitrary Rank in Positive Characteristic
+      On q-Shuffle Relations for Multiple Eisenstein Series of Arbitrary Rank in Positive Characteristic
     </a>
     </strong>, 
     <br>
