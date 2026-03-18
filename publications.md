@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 ---
 layout: default
 title: Publications
@@ -13,7 +17,7 @@ title: Publications
   </li>
   
   <li>
-    On q-Shuffle Relations for Multiple Eisenstein Series of Arbitrary Rank in Positive Characteristic
+    On $q$-Shuffle Relations for Multiple Eisenstein Series of Arbitrary Rank in Positive Characteristic
     (with Ting-Wei Chang, Song-Yun Chen and Hung-Chun Tsui), 
     Submitted, 2025. 
     [ <a href="https://arxiv.org/abs/2504.18879">ArXiv link</a> ]
